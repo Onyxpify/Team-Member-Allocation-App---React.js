@@ -20,7 +20,7 @@ Follow these steps to set up and run the project on your local machine.
 
 # React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with React.
 
 
 ## Getting Started
